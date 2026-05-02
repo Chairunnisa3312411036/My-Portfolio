@@ -21,14 +21,14 @@ const About = () => {
   const roles = [
     'Software Engineer',
     'Full-Stack Developer',
-    'Systems Engineer',
+    'Desaign UX/UI',
     'Frontend Developer',
   ];
 
   const profileImages = [
-    { src: profile1, caption: "photo 1" },
-    { src: profile2, caption: "photo 2" },
-    { src: profile3, caption: "photo 3" }
+    { src: "/icon/Profile1.png", caption: "photo 1" },
+    { src: "/icon/Profile2.png", caption: "photo 2" },
+    { src: "/icon/Profile3.png", caption: "photo 3" }
   ];
 
   const fullAsciiArt = `⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀

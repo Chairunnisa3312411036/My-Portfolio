@@ -27,7 +27,7 @@ const Footer = () => {
               </span>
             </div>
             <div className="text-sm" style={{ color: isDarkMode ? themeColors.colors.white : themeColors.colors.pink[700] }}>
-              © {currentYear} Your Name. All rights reserved.
+              © {currentYear} Alyssaa. All rights reserved.
             </div>
           </div>
 
@@ -56,7 +56,7 @@ const Footer = () => {
           {/* Right - Social buttons */}
           <div className="flex items-center justify-end space-x-4 md:flex-1">
             <a
-              href={socialLinks.github}
+              href="https://github.com/Chairunnisa3312411036"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 rounded-full transition-all duration-300 hover:scale-110"
@@ -72,7 +72,7 @@ const Footer = () => {
               </svg>
             </a>
             <a
-              href={socialLinks.linkedin}
+              href="https://www.linkedin.com/in/chairunnisayasfag"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 rounded-full transition-all duration-300 hover:scale-110"

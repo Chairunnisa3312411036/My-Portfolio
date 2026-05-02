@@ -229,12 +229,12 @@ const Projects = () => {
   // project data - these are the main cards
   const projects = [
     {
-      title: "Project One",
-      description: "A brief description of your first project. Highlight the key features and what makes it unique.",
-      technologies: ["React", "TypeScript", "Node.js", "MongoDB"],
-      icon: comingSoon,
-      detailsUrl: "/projects/project-one",
-      githubUrl: socialLinks.repositories.projectOne
+      title: "CryptoWise Mobile",
+      description: "Platform Edukasi Literasi Aset Kripto Berbasis Gamifikasi dan Real-Time Simulation",
+      technologies: ["Flutter", "Dart", "C++", "CMake"],
+      icon: "/icon/logo.png",
+      detailsUrl: "/projects/cryptowise-mobile",
+      githubUrl: "https://github.com/atalaya3312411022/cryptowise"
     },
     {
       title: "Project Two",
